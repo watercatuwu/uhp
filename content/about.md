@@ -24,3 +24,10 @@ description: "關於兔百"
 圖片素材大多皆來自[兔姬Usagihime](https://twitter.com/kuroxusagihime/)
 
 其他皆由DC群姬友提供(如:環島照片。)
+
+## 特別感謝
+
+- 巴力西卜
+![](https://cdn.discordapp.com/attachments/983395406341873680/1123940739836035082/image.png)
+
+感動欸 我都沒在管理ㄌ

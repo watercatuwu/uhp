@@ -30,8 +30,8 @@
   weight = 30
 
 [[main]]
-  name = "感謝"
-  pageRef = "thanks"
+  name = "教學"
+  pageRef = "docs"
   weight = 40
 
 #[[main]]
