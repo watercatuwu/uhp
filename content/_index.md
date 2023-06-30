@@ -1,6 +1,6 @@
 ---
-title: "homepage"
-description: "notthing here"
+title: "兔姬百科"
+description: "首頁"
 showComments: true
 ---
 
