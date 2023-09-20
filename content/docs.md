@@ -26,7 +26,9 @@ hugo使用的語法為markdown語法
 
 另外也支援HTML/CSS，會用的話能做出更多文字、圖片效果
 
-需要即時預覽可以於[stackedit](https://stackedit.io/)等網站進行編輯
+即時預覽的部分Github編輯器就有Preview功能了
+
+![](https://cdn.discordapp.com/attachments/1046603288251990099/1153973258434138142/image.png)
 
 ### 新增條目
 
