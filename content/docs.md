@@ -10,8 +10,8 @@ description: "兔百文檔"
 ### Required
 
 - Github帳號
-- 
-- 跟溺水貓取得存儲庫使用權(請洽Discord:@watercatuwu、Gmail:watercat0330@gmail.com)(Discord比較常看)
+- 跟溺水貓取得存儲庫使用權
+> (請洽Discord:@watercatuwu、Gmail:watercat0330@gmail.com)(Discord比較常看)
 
 
 ### Markdown??
