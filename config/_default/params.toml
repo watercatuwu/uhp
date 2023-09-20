@@ -58,7 +58,7 @@ smartTOCHideUnfocusedChildren = true
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
+  editURL = "https://github.com/watercatuwu/uhp/tree/main/content"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
@@ -115,24 +115,24 @@ smartTOCHideUnfocusedChildren = true
   cardViewScreenWidth = false
 
 [firebase]
-  apiKey = ""
-  authDomain = ""
-  projectId = ""
-  storageBucket = ""
-  messagingSenderId = ""
-  appId = ""
-  measurementId = ""
+  apiKey = "AIzaSyBkBX0hAatiFvgKIE2Rf8UeldXbqWcL-9E"
+  authDomain = "usagipedia.firebaseapp.com"
+  projectId = "usagipedia"
+  storageBucket = "usagipedia.appspot.com"
+  messagingSenderId = "224298012486"
+  appId = "1:224298012486:web:2b28f47d84eb7e283f9f47"
+  measurementId = "G-S8YPEJDGLR"
 
 [fathomAnalytics]
   # site = "ABC12345"
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-  identifier = "watercatuwu"
-  globalWidget = true
-  globalWidgetMessage = ""
-  globalWidgetColor = "#81A1C1"
-  globalWidgetPosition = "Right"
+ # identifier = ""
+ # globalWidget = false
+ # globalWidgetMessage = ""
+ # globalWidgetColor = ""
+ # globalWidgetPosition = ""
 
 [verification]
   # google = ""
