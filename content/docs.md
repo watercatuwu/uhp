@@ -3,35 +3,28 @@ title: "教學"
 description: "兔百文檔"
 ---
 
-## 新增、編輯條目教學
+## 新增、編輯
+
+> 更新於2023.9.20
 
 ### Required
 
 - Github帳號
+- 
+- 跟溺水貓取得存儲庫使用權(請洽Discord:@watercatuwu、Gmail:watercat0330@gmail.com)(Discord比較常看)
 
-
-### 取得百科檔案
-
-登入github帳號後，打開[兔百的存儲庫](https://github.com/watercatuwu/uhp)
-
-
-Fork兔百存儲庫
-
-![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/20230630111956.png)
-
-創建自己的存儲庫
-
-![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/20230630112116.png)
 
 ### Markdown??
 
 hugo使用的語法為markdown語法
 
+跟Discord聊天的文字效果邏輯類似
+
 詳細可以到[這篇文章](https://hackmd.io/@mrcoding/H1_y9aB5N)
 
 或是[說明文件](https://markdown.tw/)
 
-另外也支援HTML，可以使用HTML語法做出更多文字、圖片效果
+另外也支援HTML/CSS，會用的話能做出更多文字、圖片效果
 
 需要即時預覽可以於[stackedit](https://stackedit.io/)等網站進行編輯
 
@@ -61,41 +54,26 @@ tags: ["uwu","awa"] <-- 分類標籤
 
 ```
 
-### 圖床
+### 編輯條目
 
-圖片可以直接放在文章資料夾中，不過**非常不建議**
+每個文章開頭都有個小小的編輯按鈕
+
+有取得存儲庫權限的話就能直接編輯了
+
+![](https://cdn.discordapp.com/attachments/1046603288251990099/1153972288752975892/image.png)
+
+### 補充說明:圖床
+
+圖片雖能直接上傳在文章資料夾中，不過**非常不建議**
 
 會造成存儲庫檔案肥大，以及路徑遺失等問題
 
-可以使用imgur之類的圖床網站作為圖床
+所謂圖床，就是一個放圖片的網路空間
 
-我自己是使用github作為圖床
+discord也能作為圖床
 
-~~discord也是一個非常讚的圖床~~
+只要上傳後複製連結即可
 
-只要上傳複製連結即可
-
-### 上傳存儲庫(合併分支)
-
-編輯完存到自己的存儲庫後
-
-發出pull request向兔百的存儲庫提交分支
-
-![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/20230630160309.png)
-
-加上標題、詳細資訊(可選)，並送出
-
-![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/20230630160448.png)
-
-等待兔百存儲庫同意就OK了，接下來的動作都會由伺服器端自動處理
-
-### 同步存儲庫
-
-![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/20230630153307.png)
-
-當這邊出現有新的分支提示時，請記得**一定**要同步兔百的存儲庫(Sync Fork)
-
-不然會造成別人辛苦寫的文章消失
 
 ### 流程圖(給也想要自己做一個這樣的系統的人)
 
