@@ -29,3 +29,7 @@ tags: ["姬友","兔管"]
     > 參照：[【Fall Guys：終極淘汰賽】教練我好想贏!!!!!!【 兔姬UsagiHime 】](https://www.youtube.com/live/p7LJh8jzSII?feature=share)
 
 - 發起練歌演唱會，最終變成8小時耐久集體K歌，有十數名姬友和VT參與
+
+- 2020年9月18日Carnival/かにさん。為了幫兔姬老師慶祝1萬5千訂閱，送上了沖滿銅臭的彩虹(如下圖)
+
+![](https://cdn.discordapp.com/attachments/1046603288251990099/1154346785691668541/300px-Superchat_E5BDA9E899B9.png)
