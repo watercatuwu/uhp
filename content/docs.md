@@ -3,17 +3,17 @@ title: "教學"
 description: "兔百文檔"
 ---
 
-# 新增、編輯
+## 新增、編輯
 
 > 更新於2023.9.20
 
-## Required
+### Required
 
 - Github帳號
 - 跟溺水貓取得存儲庫使用權
 > (請洽Discord:@watercatuwu、Gmail:watercat0330@gmail.com)(Discord比較常看)
 
-## 編輯器選擇
+### 編輯器選擇
 
 一般做小修正直接用github網頁編輯器就行
 
@@ -26,7 +26,7 @@ github有提供線上版的vscode--**github.dev**
 `github.com -> github.dev`
 
 
-## Markdown??
+### Markdown??
 
 hugo使用的語法為markdown語法
 
@@ -44,7 +44,7 @@ hugo使用的語法為markdown語法
 
 Github.dev也能安裝Markdown預覽插件(自行Google**"vscode 插件"**)
 
-## 新增條目
+### 新增條目
 
 > 請使用github.dev 線上版vscode
 
@@ -63,9 +63,9 @@ Github.dev也能安裝Markdown預覽插件(自行Google**"vscode 插件"**)
 
 ![](https://cdn.discordapp.com/attachments/1046603288251990099/1154280280014716989/image.png)
 
-### 新增條目步驟
+#### 新增條目步驟
 
-1.新增資料夾，資料夾名為文章名稱
+1.新增資料夾，資料夾名為文章名稱(或是直接複製原有條目 記得資料要改完 不然會導致衝突)
 
 2.新增文件`index.md`
 
@@ -85,7 +85,7 @@ tags: ["uwu","awa"] <-- 分類標籤(tag)
 
 ```
 
-## 編輯條目
+### 編輯條目
 
 每個文章開頭都有個小小的編輯按鈕
 
@@ -93,13 +93,13 @@ tags: ["uwu","awa"] <-- 分類標籤(tag)
 
 ![](https://cdn.discordapp.com/attachments/1046603288251990099/1153972288752975892/image.png)
 
-## 寫完了，然後呢?
+### 寫完了，然後呢?
 
 記得Push儲存 接下來就會自動更新到網站上(約1~2min)
 
 ![](https://cdn.discordapp.com/attachments/1046603288251990099/1154282185726120056/image.png)
 
-## 補充說明:圖床
+### 補充說明:圖床
 
 圖片雖能直接上傳在文章資料夾中，不過**非常不建議**
 
@@ -112,7 +112,7 @@ discord也能作為圖床
 只要上傳後複製連結即可
 
 
-# 流程圖(給也想要自己做一個這樣的系統的人)
+## 流程圖(給也想要自己做一個這樣的系統的人)
 
 ![](https://raw.githubusercontent.com/watercatuwu/uhp/pic/%E6%9C%AA%E5%91%BD%E5%90%8D.png)
 
