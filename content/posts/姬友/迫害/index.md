@@ -1,6 +1,6 @@
 ---
 title: "迫害"
-date: 2023-06-29
+date: 2023-09-22
 draft: false
 description: "好姬友們"
 tags: ["姬友","兔管","香港"]
@@ -52,6 +52,9 @@ tags: ["姬友","兔管","香港"]
 -於生日的時候被兔姬祝賀，並以姓氏Wong 賜名汪汪（wongwong）
 
 ## 作品
+
+![](https://media.discordapp.net/attachments/983395406341873681/1154736569702424607/Flag2_1.gif)
+> 兔姬星空旗(這裡是我婆的地盤了!!)
 
 其實還有很多，但電腦壞掉，檔案被吃掉了
 ![](https://raw.githubusercontent.com/watercatuwu/usagihimepedia/pic/20230629182303.png)
