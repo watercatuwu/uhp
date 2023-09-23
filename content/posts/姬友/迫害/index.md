@@ -53,7 +53,7 @@ tags: ["姬友","兔管","香港"]
 
 ## 作品
 
-![](https://media.discordapp.net/attachments/983395406341873681/1154736569702424607/Flag2_1.gif)
+![](https://cdn.discordapp.com/attachments/1046603288251990099/1155032338330308648/flag.webp)
 > 兔姬星空旗(這裡是我婆的地盤了!!)
 
 其實還有很多，但電腦壞掉，檔案被吃掉了
