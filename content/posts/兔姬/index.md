@@ -1,6 +1,6 @@
 ---
 title: "兔姬"
-date: 2023-09-25
+date: 2023-09-24
 draft: false
 description: "我大兔姬大明神"
 slug: "兔姬"
