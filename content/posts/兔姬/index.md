@@ -1,6 +1,6 @@
 ---
 title: "兔姬"
-date: 2023-06-29
+date: 2023-09-24
 draft: false
 description: "我大兔姬大明神"
 slug: "兔姬"
@@ -32,39 +32,51 @@ tags: ["兔姬","人物"]
 
 ## 里程碑
 
-- 2020年07月02日 [一萬訂閱+生日](https://www.youtube.com/watch?v=IgigxZpKzuU)
+### 2020
 
-- 2020年12月01日 [二萬訂閱](https://www.youtube.com/watch?v=Pz_OzmFPZU0)、[觀眾凸待](https://www.youtube.com/watch?v=3pd4XA8z9YU)
+- 04月17日 [初配信](https://www.youtube.com/watch?v=uEkhjcDXPqs)
 
-- 2021年04月16日 [一周年紀念](https://www.youtube.com/watch?v=lZJ3ciEbSg0)
+- 07月02日 [一萬訂閱+生日](https://www.youtube.com/watch?v=IgigxZpKzuU)
 
-- 2021年05月13日 三萬訂閱
+- 12月01日 [二萬訂閱](https://www.youtube.com/watch?v=Pz_OzmFPZU0)、[觀眾凸待](https://www.youtube.com/watch?v=3pd4XA8z9YU)
 
-- 2021年06月24日 [新L2D披露](https://www.youtube.com/watch?v=aX0bU62bjVI)
+### 2021
 
-- 2021年07月09日 [2021兔姬生誕祭](https://www.youtube.com/watch?v=Bx4TxcIb1Ek)
+- 04月16日 [一周年紀念](https://www.youtube.com/watch?v=lZJ3ciEbSg0)
 
-- 2021年11月16日 四萬訂閱
+- 05月13日 三萬訂閱
 
-- 2022年04月15日 [兩周年紀念](https://www.youtube.com/watch?v=zvuqEauTuCQ)
+- 06月24日 [新L2D披露](https://www.youtube.com/watch?v=aX0bU62bjVI)
 
-- 2022年05月06日 [五萬訂閱](https://www.youtube.com/watch?v=oMyCrZfvOXg)
+- 07月09日 [2021兔姬生誕祭](https://www.youtube.com/watch?v=Bx4TxcIb1Ek)
 
-- 2022年07月06日 六萬訂閱
+- 11月16日 四萬訂閱
 
-- 2021年07月09日 [2022兔姬生誕祭](https://www.youtube.com/watch?v=zvuqEauTuCQ)
+### 2022
 
-- 2022年11月03日 七萬訂閱
+- 04月15日 [兩周年紀念](https://www.youtube.com/watch?v=zvuqEauTuCQ)
 
-- 2023年01月07日 八萬訂閱
+- 05月06日 [五萬訂閱](https://www.youtube.com/watch?v=oMyCrZfvOXg)
 
-- 2023年04月17日 [三周年紀念+L2D3.0](https://www.youtube.com/watch?v=9OSWo8mb10w)
+- 07月06日 六萬訂閱
 
-- 2023年04月28日 [3D Showcase](https://www.youtube.com/watch?v=jhXMnpPtOTE)
+- 07月09日 [2022兔姬生誕祭](https://www.youtube.com/watch?v=zvuqEauTuCQ)
 
-- 2023年05月05日 九萬訂閱
+- 11月03日 七萬訂閱
 
-- 2023年07月08日 [2023兔姬誕生日3D直播](https://www.youtube.com/watch?v=YTg74g-1zJI)
+### 2023
+
+- 01月07日 八萬訂閱
+
+- 04月17日 [三周年紀念+L2D3.0](https://www.youtube.com/watch?v=9OSWo8mb10w)
+
+- 04月28日 [3D Showcase](https://www.youtube.com/watch?v=jhXMnpPtOTE)
+
+- 05月05日 九萬訂閱
+
+- 07月08日 [2023兔姬誕生日3D直播](https://www.youtube.com/watch?v=YTg74g-1zJI)
+
+- 09月24日 [十萬訂閱](https://www.youtube.com/watch?v=sfAVfqF8_Ws)
 
 ## 黑歷史
 
