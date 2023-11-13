@@ -1,6 +1,6 @@
 ---
 title: "兔姬"
-date: 2023-09-24
+date: 2023-11-13
 draft: false
 description: "我大兔姬大明神"
 slug: "兔姬"
@@ -103,6 +103,8 @@ tags: ["兔姬","人物"]
 
 ![十萬訂閱瞬間](https://cdn.discordapp.com/attachments/1046603288251990099/1155462496908497007/f40b47cbbd4c9336.png)
 > 十萬訂閱瞬間開心尖叫的可愛兔姬
+
+- 10月19日 [成為春魚合作夥伴~~(入贅勢)~~](https://x.com/Springfish2018/status/1714959586380443992)
 
 ## 簡介
 
